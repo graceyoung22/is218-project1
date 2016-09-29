@@ -38,6 +38,8 @@ $this->myPrivate = 2;
 $this->myProtected = 3;
 }
 
+}
+
 //This is how you in
 $obj = new myclass;
 
