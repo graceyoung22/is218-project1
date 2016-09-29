@@ -31,7 +31,7 @@ public $myPublic;
 private $myPrivate;
 protected $myProtected;
 
-public fuction __construct() {
+public function __construct() {
 //This is the internal reference to the object within a class, the arrow points to a property or method being;
 //accessed within the oject;
 
